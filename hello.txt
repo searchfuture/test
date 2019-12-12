@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Hello world -v1.1
-=======
+
 Hello -v1.2
->>>>>>> ef2fba1ce5c3ae87f4720dbdc05e5fe66069e199
+
